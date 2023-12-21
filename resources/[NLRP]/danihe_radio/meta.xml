@@ -1,0 +1,12 @@
+<meta>
+    <info author="Danihe" name="ReachMTA ~ 2020" type="script" />
+    <script src="sourceG.luac" type="shared" cache="false" />
+    <script src="sourceC.luac" type="client" cache="false" />
+    
+    <file src="images/volume.dds" />
+    <file src="images/background.dds" />
+    <file src="images/music.dds" />
+    <file src="images/satelite.dds" />
+    
+    <file src="sounds/button.ogg" />
+</meta>

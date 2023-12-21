@@ -1,0 +1,16 @@
+<meta>
+	<min_mta_version client="1.3.4" />
+	<script src="client.luac" type="client" />
+	<script src="server.lua" type="server" />
+	<file src="axe.txd" />
+	<file src="axe.dff" />
+	<file src="treefall.mp3" />
+	<file src="150hp.mp3" />
+	<file src="cut.mp3" />
+	<file src="sawsound.mp3" />
+	<file src="up1.png" />
+	<file src="down1.png" />
+	<file src="up2.png" />
+	<file src="down2.png" />
+</meta>
+

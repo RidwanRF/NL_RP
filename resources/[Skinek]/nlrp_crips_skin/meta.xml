@@ -1,0 +1,17 @@
+<meta>
+    <script src="sourcec.lua" type="client" />
+    
+    <file src="gr/gr1.dff" />
+    <file src="gr/gr1.txd" />
+    <file src="gr/gr2.dff" />
+    <file src="gr/gr2.txd" />
+    <file src="gr/gr3.dff" />
+    <file src="gr/gr3.txd" />
+    <file src="gr/gr4.dff" />
+    <file src="gr/gr4.txd" />
+    <file src="gr/gr5.txd" />
+    <file src="gr/gr5.dff" />
+    <file src="gr/gr6.txd" />
+    <file src="gr/gr6.dff" />
+    
+</meta>

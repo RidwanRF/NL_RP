@@ -1,0 +1,10 @@
+<meta>
+    <download_priority_group>-39</download_priority_group>
+    
+    <script type="shared" src="sourceG.luac" cache="false" />
+    <script type="server" src="sourceS.lua" />
+    <script type="client" src="sourceC.luac" cache="false" />
+    
+    <file src="files/Icons.otf" />
+    <file src="files/buttons.png" />
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+    <script type="shared" src="sourceG.luac" cache="false" />
+    <script type="client" src="sourceC.luac" cache="false" />
+    
+    <export type="shared" function="getVehicleNameFromModel" />
+    <export type="shared" function="getVehicleName" />
+    <export type="shared" function="getVehicleNameList" />
+    
+    <download_priority_group>-13</download_priority_group>
+</meta>

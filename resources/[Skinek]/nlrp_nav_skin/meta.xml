@@ -1,0 +1,21 @@
+<meta>
+    <script src="sourcec.lua" type="client" />
+    
+    
+    <file src="nav/tenpen.dff" />
+    <file src="nav/tenpen.txd" />
+    <file src="nav/army.dff" />
+    <file src="nav/army.txd" />
+    <file src="nav/gungrl3.dff" />
+    <file src="nav/gungrl3.txd" />
+    <file src="nav/vk.dff" />
+    <file src="nav/vk.txd" />
+    <file src="nav/copgrl3.dff" />
+    <file src="nav/copgrl3.txd" />
+    <file src="nav/sf.dff" />
+    <file src="nav/sf.txd" />
+    <file src="nav/sf2.dff" />
+    <file src="nav/sf2.txd" />
+    <file src="nav/sf3.dff" />
+    <file src="nav/sf3.txd" />
+</meta>

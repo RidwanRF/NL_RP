@@ -1,0 +1,10 @@
+<meta>
+    <script src="exClient.luac" type="client" />
+    <script src="exServer.lua" type="server" />
+    <file src="files/fasz.png" />
+    
+    <file src="files/Roboto.ttf" />
+    <file src="files/repair.mp3" />
+    
+    <export function="checkFixPoints" type="server" />
+</meta>

@@ -1,0 +1,12 @@
+Parancs listázó eszköz. Rejtett parancsok keresésére (.luac fájlokban) is megfelelõ.
+
+Parancsok:
+/servercmds [resource neve]
+- szerver oldali parancsok listázása
+
+/clientcmds [resource neve]
+- kliens oldali parancsok listázása
+
+Ajánlott lefutattni mind a kettõt hátha egyik oldalon van rejtett parancs...
+
+by: Keiichi

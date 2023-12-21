@@ -1,0 +1,106 @@
+<meta>
+    <download_priority_group>-23</download_priority_group>
+    
+    <script type="shared" src="sourceG.luac" cache="false" />
+    <script type="server" src="sourceS.lua" />
+    <script type="client" src="sourceC.luac" cache="false" />
+    <script type="client" src="actionbar/sourceC.luac" cache="false" />
+    
+    <export function="removeWeaponsOnDeath" type="client" />
+    <export function="removeLockPick" type="client" />
+    <export function="returnAllItems" type="client" />
+    <export function="removeItemBySlot" type="client" />
+    
+    <export function="getItemMinimumAdminLevel" type="shared" />
+    
+    <!-- GreV papának speciálba (Másodjára ._.) -->
+    <!-- Tudod hasnálni kliens és szerver oldaon is egyaránt -->
+    <!-- Kliens oldalon removeOneItemByID(itemID) -->
+    <!-- Szerver oldalon removeOneItemByID(player,itemID) -->
+    <!-- Ha több mint egy van egyben akkor kivesz belőle egyet, ha csak 1 akkor meg bereccsenti az itemet <3 -->
+    <export function="removeOneItemByID" type="shared" />
+    
+    
+    <script src="weapons/sourceG.luac" type="shared" cache="false" />
+    <script src="weapons/sourceC.luac" type="client" cache="false" />
+    <script src="weapons/sourceS.lua" type="server" />
+    
+    <file src="files/fegyverjavitas.mp3" />
+    
+    
+    <file src="files/visible.png" />
+    <file src="files/hided.png" />
+    
+    
+    
+    <export type="client" function="processActionBarShowHide" />
+    <export type="client" function="changeItemStartPos" />
+    <export type="client" function="getLocalPlayerItems" />
+    <export type="client" function="hasItem" />
+    <export type="client" function="hasItemWithData" />
+    <export type="client" function="getItemsWeight" />
+    <export type="client" function="getCurrentWeight" />
+    <export type="client" function="getItemList" />
+    <export type="client" function="countItemsByItemID" />
+    <export type="client" function="bootCheck" />
+    <export type="client" function="unuseItem" />
+    <export type="client" function="countEmptySlots" />
+    
+    <export type="server" function="removeAllItem" />
+    <export type="server" function="countItemsByItemID" />
+    <export type="server" function="findEmptySlot" />
+    <export type="server" function="getInventoryWeight" />
+    <export type="server" function="addItem" />
+    <!-- format: addItem(source, itemId, amount, slotId, data1, data2, data3) -->
+    <export type="server" function="giveItem" />
+    <!-- format: giveItem(source, itemId, amount, data1, data2, data3) !!! ha nem tudod a slotot akkor ezt vagy az addItem-nél a slotId false legyen -->
+    <export type="server" function="loadItems" />
+    <export type="server" function="hasItem" />
+    <export type="server" function="hasItemWithData" />
+    <export type="server" function="removePlayerDutyItems" />
+    <export type="server" function="getInventoryItemsCount" />
+    <export type="server" function="removeItemByData" />
+    <export type="server" function="removeItemFromCharacter" />
+    
+    
+    <export type="shared" function="getItemInfoForShop" />
+    <export type="shared" function="getItemNameList" />
+    <export type="shared" function="getItemDescriptionList" />
+    <export type="shared" function="getItemName" />
+    <export type="shared" function="getItemDescription" />
+    <export type="shared" function="getItemWeight" />
+    <export type="shared" function="isItemStackable" />
+    <export type="shared" function="getItemWeaponID" />
+    <export type="shared" function="getItemAmmoID" />
+    <export type="shared" function="getNonStackableItems" />
+    <export type="shared" function="getFoodItems" />
+    <export type="shared" function="getDrinkItems" />
+    <export type="shared" function="getWeightLimit" />
+    
+    <file src="files/fonts/Roboto.ttf" />
+    <file src="files/fonts/RobotoL.ttf" />
+    <file src="files/fonts/fontawsome.ttf" />
+    
+    <file src="files/items/1.png" />
+    
+    <file src="files/categories/bag.png" />
+    <file src="files/categories/key.png" />
+    <file src="files/categories/wallet.png" />
+    <file src="files/categories/vehicle.png" />
+    <file src="files/categories/safe.png" />
+    
+    <file src="files/modell/villogo.dff" />
+    <file src="files/modell/villogo.txd" />
+    <file src="files/modell/taxi.dff" />
+    <file src="files/modell/taxi.txd" />
+    
+    <file src="files/vin.png" />
+    <file src="files/logok.png" />
+    <file src="files/blackwhite.fx" />
+    <file src="files/tooltip_bg.png" />
+    <file src="files/tooltip_arrow.png" />
+    <file src="files/noitem.png" />
+    <file src="files/noitempic.png" />
+    
+    <min_mta_version server="1.5.5" client="1.5.5" />
+</meta>

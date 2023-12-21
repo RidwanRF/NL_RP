@@ -1,0 +1,17 @@
+<meta>
+    <script src="sourcec.luac" type="client" />
+    
+    <file src="piru/p1.dff" />
+    <file src="piru/p1.txd" />
+    <file src="piru/p2.dff" />
+    <file src="piru/p2.txd" />
+    <file src="piru/p3.dff" />
+    <file src="piru/p3.txd" />
+    <file src="piru/pi4.dff" />
+    <file src="piru/pi4.txd" />
+    <file src="piru/p5.dff" />
+    <file src="piru/p5.txd" />
+    <file src="piru/p6.dff" />
+    <file src="piru/p6.txd" />
+    
+</meta>

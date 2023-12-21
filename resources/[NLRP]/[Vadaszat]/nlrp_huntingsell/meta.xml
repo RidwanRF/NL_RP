@@ -1,0 +1,7 @@
+<meta>
+    
+    <script src="global.luac" type="shared" cache="false" />
+    <script src="script.lua" type="server" />
+    <script src="scriptC.luac" type="client" />
+    
+</meta>

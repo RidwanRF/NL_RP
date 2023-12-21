@@ -1,0 +1,8 @@
+<meta>
+    <script src="sourceC.luac" type="client" />
+    
+    <file src="files/nextlevelfont.ttf" />
+    
+    <file src="files/consoling.png" />
+    <file src="files/typing.png" />
+</meta>

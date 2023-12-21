@@ -1,0 +1,69 @@
+<meta>
+    <script src="sourceG.luac" type="shared" cache="false" />
+    <script src="sourceC.luac" type="client" cache="false" />
+    
+    <file src="neons/1.dff" />
+    <file src="neons/2.dff" />
+    <file src="neons/3.dff" />
+    <file src="neons/4.dff" />
+    <file src="neons/5.dff" />
+    <file src="neons/6.dff" />
+    <file src="neons/7.dff" />
+    <file src="neons/8.dff" />
+    <file src="neons/9.dff" />
+    <file src="neons/10.dff" />
+    
+    <file src="wheels/wheels1.txd" />
+    <file src="wheels/wheels2.txd" />
+    <file src="wheels/wheels3.txd" />
+    <file src="wheels/fm3_wheels.txd" />
+    <file src="wheels/1.dff" />
+    <file src="wheels/2.dff" />
+    <file src="wheels/3.dff" />
+    <file src="wheels/4.dff" />
+    <file src="wheels/5.dff" />
+    <file src="wheels/6.dff" />
+    <file src="wheels/7.dff" />
+    <file src="wheels/8.dff" />
+    <file src="wheels/9.dff" />
+    <file src="wheels/10.dff" />
+    <file src="wheels/11.dff" />
+    <file src="wheels/12.dff" />
+    <file src="wheels/13.dff" />
+    <file src="wheels/14.dff" />
+    <file src="wheels/15.dff" />
+    <file src="wheels/16.dff" />
+    <file src="wheels/17.dff" />
+    <file src="wheels/18.dff" />
+    <file src="wheels/19.dff" />
+    <file src="wheels/20.dff" />
+    <file src="wheels/21.dff" />
+    <file src="wheels/22.dff" />
+    <file src="wheels/23.dff" />
+    <file src="wheels/24.dff" />
+    <file src="wheels/25.dff" />
+    <file src="wheels/26.dff" />
+    <file src="wheels/27.dff" />
+    
+    <file src="wheels/28.dff" />
+    <file src="wheels/29.dff" />
+    <file src="wheels/30.dff" />
+    <file src="wheels/31.dff" />
+    <file src="wheels/32.dff" />
+    <file src="wheels/33.dff" />
+    <file src="wheels/34.dff" />
+    <file src="wheels/35.dff" />
+    <file src="wheels/36.dff" />
+    <file src="wheels/37.dff" />
+    <file src="wheels/38.dff" />
+    <file src="wheels/39.dff" />
+    <file src="wheels/40.dff" />
+    <file src="wheels/41.dff" />
+    <file src="wheels/42.dff" />
+    <file src="wheels/43.dff" />
+    <file src="wheels/43.dff" />
+    <file src="wheels/44.dff" />
+    <file src="wheels/45.dff" />
+    <file src="wheels/46.dff" />
+    
+</meta>

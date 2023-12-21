@@ -1,0 +1,30 @@
+<!--
+********************************************************************************
+	Project owner:		Sanyi
+	Project name: 		SocialGaming
+	Developers:   		Miki,Xemmer,Dani,Nexus
+	Bugtracker: 		http://bugs.sgrp.hu/
+	Suggestions:		http://sgrp.hu/
+	Version:    		Closed Source
+	License:    		Social release
+	Status:     		Stable release
+********************************************************************************
+-->
+
+<meta>
+    <script src="sourceC.luac" type="client" />
+    <script src="sourceS.lua" type="server" />
+    <file src="files/shutter.mp3" />
+    <file src="files/speedcam-pointer.png" />
+    <file src="files/3leg.dff" />
+    <file src="files/3leg.col" />
+    <file src="files/3leg.txd" />
+    <file src="files/fix.dff" />
+    <file src="files/fix.col" />
+    <file src="files/fix.txd" />
+    <file src="files/veda.dff" />
+    <file src="files/veda.col" />
+    <file src="files/veda.txd" />
+    
+    <oop>true</oop>
+</meta>

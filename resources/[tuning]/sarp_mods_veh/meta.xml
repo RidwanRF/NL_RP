@@ -1,0 +1,17 @@
+<meta>
+    <file src="files/tampa.heal" />
+    <file src="files/Alpha.heal" />
+    <file src="files/sandking.heal" />
+    <file src="files/sultan.heal" />
+    
+    <script type="shared" src="sourceG.lua" cache="false" />
+    <script type="shared" src="coreG.lua" cache="false" />
+    <script type="server" src="sourceS.lua" />
+    <script type="client" src="sourceC.lua" cache="false" />
+    
+    <export type="shared" function="getVehicleNameFromModel" />
+    <export type="shared" function="getVehicleName" />
+    <export type="shared" function="getVehicleNameList" />
+    <export type="shared" function="getModelIdFromName" />
+    <download_priority_group>-16</download_priority_group>
+</meta>

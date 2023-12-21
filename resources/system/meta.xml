@@ -1,0 +1,156 @@
+<meta>
+    <info author="TaCsa" type="script" description="SeeMTA v3 core" />
+    
+    
+    <!-- Shaderek -->
+    <file src="shaderek/elmosasShader.fx" />
+    <file src="shaderek/3dShader.fx" />
+    
+    
+    
+    <!-- Fontok -->
+    <file src="fontok/bankgthd.ttf" />
+    <file src="fontok/coredashfont.otf" />
+    <file src="fontok/corefont.ttf" />
+    <file src="fontok/fontawesome-webfont.ttf" />
+    <file src="fontok/opensans_semi.ttf" />
+    <file src="fontok/opensans_bold.ttf" />
+    <file src="fontok/gtafont.ttf" />
+    <file src="fontok/digitalis.ttf" />
+    <file src="fontok/helveticaneue.otf" />
+    <file src="fontok/helveticaneuebold.otf" />
+    
+    
+    <!-- V3 logo assets -->
+    <file src="files/logo1.png" />
+    <file src="files/logo2.png" />
+    <file src="files/logo3.png" />
+    <export function="addV3logo" type="client" />
+    <!-- Rajz Rendszer -->
+    <script src="draw.luac" type="client" />
+    <script src="robbanas_c.luac" type="client" />
+    
+    <script src="adminGlobal.lua" type="server" />
+    <export function="isPlayerAdminduty" type="server" />
+    <export function="isEgyesAdmin" type="server" />
+    <export function="isKettesAdmin" type="server" />
+    <export function="isHarmasAdmin" type="server" />
+    <export function="isNegyesAdmin" type="server" />
+    <export function="isOtosAdmin" type="server" />
+    <export function="isFoAdmin" type="server" />
+    <export function="isSuperAdmin" type="server" />
+    <export function="isFoAdmin" type="server" />
+    <export function="isTulajdonos" type="server" />
+    <export function="isDeveloper" type="server" />
+    <export function="isSysAdmin" type="server" />
+    <export function="getPlayerAdminLevel" type="server" />
+    <export function="getPlayerAdminTitle" type="server" />
+    <export function="getAccurateAdminTitle" type="server" />
+    <export function="isPlayerScripter" type="server" />
+    <export function="isPlayerAdmin" type="server" />
+    <export function="getAdmins" type="server" />
+    
+    <script src="adminGlobal.luac" type="client" />
+    <export function="isPlayerAdminduty" type="client" />
+    <export function="isEgyesAdmin" type="client" />
+    <export function="isKettesAdmin" type="client" />
+    <export function="isHarmasAdmin" type="client" />
+    <export function="isNegyesAdmin" type="client" />
+    <export function="isOtosAdmin" type="client" />
+    <export function="isFoAdmin" type="client" />
+    <export function="isSuperAdmin" type="client" />
+    <export function="isFoAdmin" type="client" />
+    <export function="isTulajdonos" type="client" />
+    <export function="isDeveloper" type="client" />
+    <export function="getPlayerAdminLevel" type="client" />
+    <export function="getAccurateAdminTitle" type="client" />
+    <export function="getPlayerAdminTitle" type="client" />
+    <export function="isPlayerScripter" type="client" />
+    <export function="isPlayerAdmin" type="client" />
+    <export function="getAdmins" type="client" />
+    
+    <script src="dateC.luac" type="client" />
+    <export function="dli" type="client" />
+    <export function="minutesToHours" type="client" />
+    <export function="secondsToMinutes" type="client" />
+    <export function="toHex" type="client" />
+    <export function="cezar" type="client" />
+    <export function="uncezar" type="client" />
+    <export function="getPointFromDistanceRotation" type="client" />
+    <export function="Check" type="client" />
+    <export function="formatDate" type="client" />
+    <export function="getNearestVehicle" type="client" />
+    <export function="isLeapYear" type="client" />
+    <export function="getTimestamp" type="client" />
+    
+    <export function="fontSzovegRender" type="client" />
+    <export function="fontSzovegRenderKerettel" type="client" />
+    
+    <export function="ikonRender" type="client" />
+    <export function="ikonHatterrel" type="client" />
+    <export function="kisIkonRender" type="client" />
+    <export function="getIkonSzelesseg" type="client" />
+    <export function="getIkonMagassag" type="client" />
+    <export function="getIkonByNev" type="client" />
+    <export function="getFontSzelesseg" type="client" />
+    <export function="hudPenzRender" type="client" />
+    <export function="hudPenzRenderKerettel" type="client" />
+    
+    <export function="formDobozRajzolasa" type="client" />
+    <export function="formFeketeFeher" type="client" />
+    <export function="formDobozRajzolasaCimmel" type="client" />
+    <export function="formInputRajzolas" type="client" />
+    <export function="formGombRajzolas" type="client" />
+    <export function="formIkonosGombRajzolas" type="client" />
+    <export function="formGombAlphavalRajzolas" type="client" />
+    <export function="formMenuRajzolas" type="client" />
+    <export function="formComboRajzolas" type="client" />
+    <export function="formKilepesRender" type="client" />
+    <export function="formBillengyuzetGombRajzolas" type="client" />
+    <export function="formBillengyuzetGombRajzolasSzinnel" type="client" />
+    <export function="logoAnimacio" type="client" />
+    <export function="toolTipRajzolas" type="client" />
+    <export function="toolTipRajzolasEgerrel" type="client" />
+    
+    <export function="radarKeret" type="client" />
+    <export function="dxDrawClickableRectangle" type="client" />
+    <export function="dobozRajzolas" type="client" />
+    <export function="hudCsikRajzolas" type="client" />
+    <export function="gombRajzolasSzinnel" type="client" />
+    <export function="panelRajzolas" type="client" />
+    <export function="hudXPRajzolas" type="client" />
+    <export function="hudCsikRajzolas2" type="client" />
+    <export function="oszlopRajzolas" type="client" />
+    <export function="gorgetesRajzolas" type="client" />
+    
+    <export function="smoothMoveCamera" type="client" />
+    <export function="stopSmoothMoveCamera" type="client" />
+    
+    <script src="alap.luac" type="shared" />
+    <export function="getJatekosErtekSzazalek" type="shared" />
+    <export function="dobozbaVan" type="shared" />
+    <export function="isInSlot" type="shared" />
+    <export function="jelszoKodolas" type="shared" />
+    <export function="tabla_masolas" type="shared" />
+    <export function="jelszoHash" type="shared" />
+    <export function="getJatekosErtekSzazalek" type="shared" />
+    <export function="getJelenIdo" type="shared" />
+    <export function="xadatFrissit" type="shared" />
+    <export function="ezSzam" type="shared" />
+    <export function="getJatekosByIDvNev" type="shared" />
+    <export function="getIdoMS" type="shared" />
+    <export function="getIdoByTS" type="shared" />
+    <export function="visszaIdo" type="shared" />
+    <export function="szamForma" type="shared" />
+    <export function="penzForma" type="shared" />
+    <export function="vanPenze" type="shared" />
+    <export function="kerekites" type="shared" />
+    
+    <export function="korRajzolas" type="client" />
+    <export function="visszaSzamlaloRajz" type="client" />
+    
+    <export function="elmosasBekapcsolasa" type="client" />
+    <export function="elmosasKikapcsolasa" type="client" />
+    
+    <min_mta_version client="1.5.6" server="1.5.6" />
+</meta>

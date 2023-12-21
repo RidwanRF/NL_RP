@@ -1,0 +1,7 @@
+<meta>
+    <info name="Gate System" author="HeXoN" version="1.0.61" type="script" />
+    
+    <script src="sourceS.lua" type="server" />
+    <script src="sourceC.luac" type="client" />
+    
+</meta>

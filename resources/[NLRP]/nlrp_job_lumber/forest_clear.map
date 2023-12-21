@@ -1,0 +1,9 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (sm_fir_tallgroup) (1)" radius="38.562614" interior="0" model="790" lodModel="0" posX="-2081.9609" posY="-2367" posZ="34.75781" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_firtbshg) (1)" radius="31.324816" interior="0" model="698" lodModel="0" posX="-2057.4375" posY="-2417.0859" posZ="34.8125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_fir_tallgroup) (2)" radius="38.562614" interior="0" model="790" lodModel="0" posX="-2035.7266" posY="-2432.6562" posZ="34.75781" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_firtbshg) (2)" radius="31.324816" interior="0" model="698" lodModel="0" posX="-2041.8281" posY="-2448.4062" posZ="34.8125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_fir_tallgroup) (3)" radius="38.562614" interior="0" model="790" lodModel="0" posX="-2028.1875" posY="-2480.0234" posZ="34.75781" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (sm_fir_tallgroup) (4)" radius="38.562614" interior="0" model="790" lodModel="0" posX="-1989.7812" posY="-2462.3281" posZ="34.75781" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (vbg_fir_copse) (1)" radius="63.015308" interior="0" model="791" lodModel="785" posX="-1984.9375" posY="-2507.8516" posZ="29.96094" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

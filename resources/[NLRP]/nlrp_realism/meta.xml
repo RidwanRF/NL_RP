@@ -1,0 +1,13 @@
+<meta>
+    
+    <script src="sourceC.luac" type="client" cache="false" />
+    
+    <script src="sourceG.luac" type="shared" cache="false" />
+    
+    <script src="sourceS.lua" type="server" />
+    
+    
+    
+    <export function="getCelsius" type="client" />
+    
+</meta>

@@ -1,0 +1,66 @@
+<meta>
+    <script src="sourceC.luac" type="client" cache="false" />
+    
+    <file src="parts/flash/fbmp_a_l.dff" />
+    <file src="parts/flash/fbmp_c_l.dff" />
+    <file src="parts/flash/rbmp_a_l.dff" />
+    <file src="parts/flash/rbmp_c_l.dff" />
+    <file src="parts/flash/rf_a_l.dff" />
+    <file src="parts/flash/rf_c_l.dff" />
+    <file src="parts/flash/wg_l_a_l.dff" />
+    <file src="parts/flash/wg_l_c_l.dff" />
+    <file src="parts/flash/wg_r_a_l.dff" />
+    <file src="parts/flash/wg_r_c_l.dff" />
+    
+    <file src="parts/jester/fbmp_a_j.dff" />
+    <file src="parts/jester/fbmp_c_j.dff" />
+    <file src="parts/jester/rbmp_a_j.dff" />
+    <file src="parts/jester/rbmp_c_j.dff" />
+    <file src="parts/jester/rf_a_j.dff" />
+    <file src="parts/jester/rf_c_j.dff" />
+    <file src="parts/jester/spl_a_j_b.dff" />
+    <file src="parts/jester/spl_c_j_b.dff" />
+    <file src="parts/jester/wg_l_a_j.dff" />
+    <file src="parts/jester/wg_l_c_j.dff" />
+    <file src="parts/jester/wg_r_a_j.dff" />
+    <file src="parts/jester/wg_r_c_j.dff" />
+    
+    <file src="parts/stratum/fbmp_a_st.dff" />
+    <file src="parts/stratum/fbmp_c_st.dff" />
+    <file src="parts/stratum/rbmp_a_st.dff" />
+    <file src="parts/stratum/rbmp_c_st.dff" />
+    <file src="parts/stratum/rf_a_st.dff" />
+    <file src="parts/stratum/rf_c_st.dff" />
+    <file src="parts/stratum/spl_a_st_r.dff" />
+    <file src="parts/stratum/spl_c_st_r.dff" />
+    <file src="parts/stratum/wg_l_a_st.dff" />
+    <file src="parts/stratum/wg_l_c_st.dff" />
+    <file src="parts/stratum/wg_r_a_st.dff" />
+    <file src="parts/stratum/wg_r_c_st.dff" />
+    
+    <file src="parts/sultan/fbmp_a.dff" />
+    <file src="parts/sultan/fbmp_c.dff" />
+    <file src="parts/sultan/rbmp_a.dff" />
+    <file src="parts/sultan/rbmp_c.dff" />
+    <file src="parts/sultan/rf_a.dff" />
+    <file src="parts/sultan/rf_c.dff" />
+    <file src="parts/sultan/spl_a_l.dff" />
+    <file src="parts/sultan/spl_c_l.dff" />
+    <file src="parts/sultan/wg_l_a.dff" />
+    <file src="parts/sultan/wg_l_c.dff" />
+    <file src="parts/sultan/wg_r_a.dff" />
+    <file src="parts/sultan/wg_r_c.dff" />
+    
+    <file src="parts/uranus/fbmp_a.dff" />
+    <file src="parts/uranus/fbmp_c.dff" />
+    <file src="parts/uranus/rbmp_a.dff" />
+    <file src="parts/uranus/rbmp_c.dff" />
+    <file src="parts/uranus/rf_a.dff" />
+    <file src="parts/uranus/rf_c.dff" />
+    <file src="parts/uranus/spl_a_l.dff" />
+    <file src="parts/uranus/spl_c_l.dff" />
+    <file src="parts/uranus/wg_l_a.dff" />
+    <file src="parts/uranus/wg_l_c.dff" />
+    <file src="parts/uranus/wg_r_a.dff" />
+    <file src="parts/uranus/wg_r_c.dff" />
+</meta>

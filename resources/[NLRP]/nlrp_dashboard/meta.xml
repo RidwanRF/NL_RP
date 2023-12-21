@@ -1,0 +1,48 @@
+<meta>
+    <script src="sourceG.lua" type="shared" cache="false" />
+    <script src="sourceS.lua" type="server" />
+    <script src="sourceC.lua" type="client" cache="false" />
+    
+    <file src="sounds/open.wav" />
+    <file src="sounds/close.wav" />
+    <file src="sounds/katt.wav" />
+    
+    <file src="images/logo.png" />
+    
+    <file src="images/icons/1.png" />
+    <file src="images/icons/2.png" />
+    <file src="images/icons/3.png" />
+    <file src="images/icons/4.png" />
+    <file src="images/icons/5.png" />
+    <file src="images/icons/6.png" />
+    <file src="images/icons/7.png" />
+    <file src="images/icons/8.png" />
+    <file src="images/icons/9.png" />
+    <file src="images/icons/10.png" />
+    
+    <file src="images/donate/nlpack1.png" />
+    <file src="images/donate/nlpack2.png" />
+    <file src="images/donate/nlpack3.png" />
+    <file src="images/donate/nlpack4.png" />
+    <file src="images/donate/others.png" />
+    <file src="images/donate/paypal.png" />
+    <file src="images/donate/sms.png" />
+    
+    <file src="images/crosshairs/1.png" />
+    <file src="images/crosshairs/2.png" />
+    <file src="images/crosshairs/3.png" />
+    <file src="images/crosshairs/4.png" />
+    <file src="images/crosshairs/5.png" />
+    <file src="images/crosshairs/6.png" />
+    <file src="images/crosshairs/7.png" />
+    <file src="images/crosshairs/8.png" />
+    <file src="images/crosshairs/9.png" />
+    <file src="shaders/blur.fx" type="client" />
+    
+    <file src="fonts/nextlevelfont.ttf" />
+    <file src="fonts/fontawsome.ttf" />
+    
+    <export function="getBindedKeys" type="client" />
+    <export function="createBlur" type="client" />
+    <export function="removeBlur" type="client" />
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <file src="files/mk/mk1.dff" />
+    <file src="files/mk/mk1.dff" />
+    
+    <script type="client" src="sourceC.luac" cache="false" />
+    
+    <download_priority_group>-14</download_priority_group>
+</meta>

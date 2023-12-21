@@ -1,0 +1,16 @@
+<meta>
+    <script src="sourcec.luac" type="client" />
+    
+    <file src="other/csuhy.dff" />
+    <file src="other/csuhy.txd" />
+    
+    <file src="other/csuhy2.dff" />
+    <file src="other/csuhy2.txd" />
+    
+    <file src="other/csuhy3.dff" />
+    <file src="other/csuhy3.txd" />
+    
+    <file src="other/rus02.dff" />
+    <file src="other/rus02.txd" />
+    
+</meta>

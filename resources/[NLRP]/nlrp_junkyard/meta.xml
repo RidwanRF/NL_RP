@@ -1,0 +1,9 @@
+<meta>
+    
+    <script src="sourceS.lua" type="server" />
+    
+    <script src="sourceC.luac" type="client" />
+    
+    <file src="files/myriadproregular.ttf" />
+    
+</meta>

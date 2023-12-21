@@ -1,0 +1,12 @@
+<meta>
+    <script src="sourceC.luac" type="client" />
+    <script src="sourceG.luac" type="shared" />
+    <file src="files/fonts.ttf" />
+    <file src="files/OpenSansB.ttf" />
+    <file src="files/bg.png" />
+    <file src="files/tek.png" />
+    <file src="files/sliderBG.png" />
+    <file src="files/sliderC.png" />
+    <export function="isRadioShowing" type="client" />
+    <export function="getRadioURL" type="client" />
+</meta>

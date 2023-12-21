@@ -1,0 +1,7 @@
+<meta>
+    <script src="sourceC.luac" type="client" />
+    <script src="sourceS.lua" type="server" />
+    <file src="fajlok/alarm.mp3" />
+    <file src="fajlok/Roboto.ttf" />
+    <file src="fajlok/logo.png" />
+</meta>

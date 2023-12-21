@@ -1,0 +1,25 @@
+<meta>
+    
+    <script src="codeClient.lua" type="client"></script>
+    
+    <script src="codeServer.lua" type="server"></script>
+   
+    <file src="textures/heli1.png" />
+    <file src="textures/heli2.png" />
+    <file src="textures/heli3.png" />
+    <file src="textures/heli4.png" />
+    <file src="textures/heli5.png" />
+    <file src="textures/heli6.png" />
+    <file src="textures/heli7.png" />
+    
+    <file src="texturechanger.fx"></file>
+    
+    
+    
+    <export function="getVehiclePaintJobs" type="client"></export>
+    
+    <export function="addVehiclePaintJob" type="shared"></export>
+    
+    <export function="destroyShaderCache" type="shared"></export>
+    
+</meta>

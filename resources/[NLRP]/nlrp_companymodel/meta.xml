@@ -1,0 +1,5 @@
+<meta>
+    <script type="client" src="client.luac" />
+    <file src="a.col" />
+    <file src="a.dff" />
+</meta>

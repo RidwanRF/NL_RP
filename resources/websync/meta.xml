@@ -1,0 +1,5 @@
+<meta>
+	<script src="sync.lua" type="server"/>
+	<export function="clearAdminDatas" type="server" http="true" />
+	<export function="changePlayerName" type="server" http="true" />
+</meta>

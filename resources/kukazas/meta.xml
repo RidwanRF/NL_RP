@@ -1,0 +1,4 @@
+<meta>
+    <info author="Krotter" type="script" description="Kukabúvár rendszer" />
+    <script src="s_kukabuvar.lua" type="server"></script>
+</meta>

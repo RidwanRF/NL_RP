@@ -1,0 +1,9 @@
+<meta>
+    
+    <info author="holuzs" version="1.0.0" type="script" description="XmasEventScript" />
+    
+    <script src="codeC.luac" type="client" />
+    
+    <script src="settings.luac" type="shared" />
+    
+</meta>

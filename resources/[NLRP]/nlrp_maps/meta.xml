@@ -1,0 +1,17 @@
+<meta>
+    
+    
+    <map src="public/nlrp_sm.map" />
+    
+    
+    
+    
+    <map src="group/nlrp_turkish.map" />
+    
+    
+    <script src="mapEditorScriptingExtension_c.luac" type="client" />
+    <script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="sourceC.luac" type="client" />
+    
+    <download_priority_group>-12</download_priority_group>
+</meta>

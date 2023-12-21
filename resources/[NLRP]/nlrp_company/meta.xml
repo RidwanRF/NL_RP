@@ -1,0 +1,65 @@
+<meta>
+    <script src="edit/sourceC.luac" type="client" />
+    
+    <script src="sourceG.luac" type="shared" />
+    <script src="sourceS.lua" type="server" />
+    <script src="sourceC.luac" type="client" />
+    
+    <script src="collisions/sourceG.luac" type="shared" />
+    <script src="collisions/sourceS.lua" type="server" />
+    <script src="collisions/sourceC.luac" type="client" />
+    
+    <script src="create/sourceC.luac" type="client" />
+    
+    <script src="letter/sourceC.luac" type="client" />
+    
+    
+    <script src="shops/sourceS.lua" type="server" />
+    <script src="shops/sourceC.luac" type="client" />
+    
+    <file src="images/logo.png" />
+    <file src="images/arrow.png" />
+    <file src="images/fuvarlevel.png" />
+    <file src="images/signature.png" />
+    
+    <file src="images/kirakodas.png" />
+    <file src="images/berakodas.png" />
+    <file src="images/berakodas_olaj.png" />
+    <file src="images/fuvarvalaszto.png" />
+    
+    <file src="fonts/signature.ttf" />
+    
+    <export function="showProductLetter" type="client" />
+    
+    <export function="completeJob" type="server" />
+    <export function="tryToBuyVehicle" type="server" />
+    
+    <export function="getVehicleTax" type="shared" />
+    
+    
+    <export function="dxCreateEdit" type="client" />
+    <export function="dxGetActiveEditName" type="client" />
+    <export function="dxGetActiveEdit" type="client" />
+    <export function="dxDestroyEdit" type="client" />
+    <export function="dxEditSetText" type="client" />
+    <export function="dxGetEdit" type="client" />
+    <export function="dxGetEditText" type="client" />
+    <export function="dxSetEditPosition" type="client" />
+    
+    
+    
+    <file src="images/vehicles/435.png" />
+    <file src="images/vehicles/543.png" />
+    <file src="images/vehicles/478.png" />
+    <file src="images/vehicles/413.png" />
+    <file src="images/vehicles/440.png" />
+    <file src="images/vehicles/499.png" />
+    <file src="images/vehicles/498.png" />
+    <file src="images/vehicles/455.png" />
+    <file src="images/vehicles/514.png" />
+    <file src="images/vehicles/515.png" />
+    <file src="images/vehicles/403.png" />
+    <file src="images/vehicles/584.png" />
+    <file src="images/vehicles/450.png" />
+    <file src="images/vehicles/591.png" />
+</meta>

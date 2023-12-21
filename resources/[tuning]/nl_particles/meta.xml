@@ -1,0 +1,11 @@
+<meta>
+    <script src="sourceC.luac" type="client" cache="false" />
+    
+    <file src="assets/smokes/1.dds" />
+    <file src="assets/smokes/2.dds" />
+    <file src="assets/smokes/3.dds" />
+    
+    <file src="assets/empty.dds" />
+    
+    <export function="createParticle" type="client" />
+</meta>

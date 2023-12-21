@@ -1,0 +1,9 @@
+<meta>
+    <script src="utilC.luac" type="client" />
+    <script src="sourceC.luac" type="client" />
+    <script src="sourceS.lua" type="server" />
+    <script src="sourceG.luac" type="shared" />
+    <export function="remoteOpenCarshop" type="client" />
+    <export function="getVehicleShopPirce" type="shared" />
+    <download_priority_group>-34</download_priority_group>
+</meta>

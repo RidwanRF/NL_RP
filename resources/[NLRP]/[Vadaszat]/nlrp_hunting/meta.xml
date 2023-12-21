@@ -1,0 +1,20 @@
+<dwayne>
+    <script src="codeG.luac" type="shared" cache="false" />
+    <script src="codeC.luac" type="client" cache="false" />
+    <script src="codeS.lua" type="server" />
+    
+    <file src="files/font.ttf" />
+    <file src="files/opensans.ttf" />
+    <script src="balanceC.luac" type="client" cache="false" />
+    <file src="files/arch.png" type="client" />
+    <file src="files/arrow_d.png" type="client" />
+    <file src="files/arrow_l.png" type="client" />
+    <file src="files/arrow_r.png" type="client" />
+    <file src="files/arrow_u.png" type="client" />
+    <file src="files/circle.png" type="client" />
+    <file src="files/mainCircle.png" type="client" />
+    <file src="files/pointer.png" type="client" />
+    <file src="files/progressbg.png" type="client" />
+    <file src="files/progressoff.png" type="client" />
+    <file src="files/progresson.png" type="client" />
+</dwayne>

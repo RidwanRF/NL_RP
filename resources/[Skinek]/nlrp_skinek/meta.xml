@@ -1,0 +1,236 @@
+﻿<meta>
+    
+    <script src="client.luac" type="client" />
+    
+    
+    
+    <file src="12.dff" />
+    
+    <file src="12.txd" />
+    
+    <file src="11.dff" />
+    
+    <file src="11.txd" />
+    
+    <file src="2.dff" />
+    
+    <file src="2.txd" />
+    
+    <file src="1.dff" />
+    
+    <file src="1.txd" />
+    
+    <file src="30.dff" />
+    
+    <file src="30.txd" />
+    
+    <file src="20.dff" />
+    
+    <file src="20.txd" />
+    
+    <file src="55.dff" />
+    
+    <file src="55.txd" />
+    
+    <file src="56.dff" />
+    
+    <file src="56.txd" />
+    
+    <file src="44.dff" />
+    
+    <file src="44.txd" />
+    
+    <file src="76.dff" />
+    
+    <file src="76.txd" />
+    
+    <file src="41.dff" />
+    
+    <file src="41.txd" />
+    
+    <file src="43.dff" />
+    
+    <file src="43.txd" />
+    
+    <file src="46.dff" />
+    
+    <file src="46.txd" />
+    
+    <file src="64.dff" />
+    
+    <file src="64.txd" />
+    
+    <file src="63.dff" />
+    
+    <file src="63.txd" />
+    
+    <file src="66.dff" />
+    
+    <file src="66.txd" />
+    
+    <file src="67.dff" />
+    
+    <file src="67.txd" />
+    
+    <file src="83.dff" />
+    
+    <file src="83.txd" />
+    
+    <file src="84.dff" />
+    
+    <file src="84.txd" />
+    
+    <file src="bear.dff" />
+    
+    <file src="bear.txd" />
+    
+    <file src="bear2.dff" />
+    
+    <file src="bear2.txd" />
+    
+    <file src="fox.dff" />
+    
+    <file src="fox.txd" />
+    
+    <file src="wolf.dff" />
+    
+    <file src="wolf.txd" />
+    
+    <file src="PIG.dff" />
+    
+    <file src="PIG.txd" />
+    
+    <file src="maffia/Merle Dixon.dff" />
+    
+    <file src="maffia/Merle Dixon.txd" />
+    
+    <file src="maffia/Anthrax.dff" />
+    
+    <file src="maffia/Anthrax.txd" />
+    
+    <file src="maffia/Jefe.dff" />
+    
+    <file src="maffia/Jefe.txd" />
+    
+    <file src="maffia/mafboss.dff" />
+    
+    <file src="maffia/mafboss.txd" />
+    
+    <file src="maffia/maffa.dff" />
+    
+    <file src="maffia/maffa.txd" />
+    
+    <file src="maffia/maffb.dff" />
+    
+    <file src="maffia/maffb.txd" />
+    
+    <file src="maffia/vwmybjd.dff" />
+    
+    <file src="maffia/vwmybjd.txd" />
+    
+    <file src="maffia/wmyammo.dff" />
+    
+    <file src="maffia/wmyammo.txd" />
+    
+    
+    
+    <!-- OMSZNEK-->
+    
+    <file src="omsz/omsz1.dff" />
+    
+    <file src="omsz/omsz1.txd" />
+    
+    <file src="omsz/omsz2.dff" />
+    
+    <file src="omsz/omsz2.txd" />
+    
+    <file src="omsz/omsz3.dff" />
+    
+    <file src="omsz/omsz3.txd" />
+    
+    <file src="omsz/omsz4.dff" />
+    
+    <file src="omsz/omsz4.txd" />
+    
+    <file src="omsz/omsz5.dff" />
+    
+    <file src="omsz/omsz5.txd" />
+    
+    <file src="omsz/omsz6.dff" />
+    
+    <file src="omsz/omsz6.txd" />
+    
+    
+    
+    <!-- ORFKNAK & TEKNEK-->
+    
+    <file src="orfk/sfpd1.txd" />
+    
+    <file src="orfk/sfpd1.dff" />
+    
+    <file src="orfk/lapd1.txd" />
+    
+    <file src="orfk/lapd1.dff" />
+    
+    <file src="orfk/lapd2.txd" />
+    
+    <file src="orfk/lapd2.dff" />
+    
+    <file src="orfk/lapd3.txd" />
+    
+    <file src="orfk/lapd3.dff" />
+    
+    <file src="orfk/lapd4.txd" />
+    
+    <file src="orfk/lapd4.dff" />
+    
+    <file src="orfk/lapd5.txd" />
+    
+    <file src="orfk/lapd5.dff" />
+    
+    <file src="orfk/tek.txd" />
+    
+    <file src="orfk/tek.dff" />
+    
+    <file src="orfk/s7.txd" />
+    
+    <file src="orfk/s7.dff" />
+    
+    <!-- NAVNAK-->
+    
+    <!-- NNINEK-->
+    
+    <file src="nni/nni.txd" />
+    
+    <file src="nni/nni.dff" />
+    
+    <file src="nni/nni1.txd" />
+    
+    <file src="nni/nni1.dff" />
+    
+    <file src="nni/nni2.txd" />
+    
+    <file src="nni/nni2.dff" />
+    
+    <file src="nni/nni3.txd" />
+    
+    <file src="nni/nni3.dff" />
+    
+    <file src="nni/nni4.txd" />
+    
+    <file src="nni/nni4.dff" />
+    
+    <file src="nni/nni5.txd" />
+    
+    <file src="nni/nni5.dff" />
+    
+    <!-- Szerelőnek-->
+    
+    <file src="57.dff" />
+    <file src="57.txd" />
+    <file src="50.dff" />
+    <file src="50.txd" />
+    <file src="58.dff" />
+    <file src="58.txd" />
+    
+</meta>

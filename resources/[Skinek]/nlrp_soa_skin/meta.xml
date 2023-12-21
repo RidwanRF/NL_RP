@@ -1,0 +1,16 @@
+<meta>
+    <script src="sourcec.luac" type="client" />
+    
+    <file src="other/soa1.dff" />
+    <file src="other/soa1.txd" />
+    
+    <file src="other/soa2.dff" />
+    <file src="other/soa2.txd" />
+    
+    <file src="other/soa3.dff" />
+    <file src="other/soa3.txd" />
+    
+    <file src="other/soa4.dff" />
+    <file src="other/soa4.txd" />
+    
+</meta>

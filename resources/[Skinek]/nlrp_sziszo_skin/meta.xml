@@ -1,0 +1,9 @@
+<meta>
+    <script src="sourcec.lua" type="client" />
+    
+    <file src="other/a.dff" />
+    <file src="other/a.txd" />
+    
+    <file src="other/sziszo2.dff" />
+    <file src="other/sziszo2.txd" />
+</meta>

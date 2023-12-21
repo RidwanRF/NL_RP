@@ -1,0 +1,10 @@
+<meta>
+    <script src="codeC.luac" type="client" cache="false" />
+    <script src="codeS.lua" type="server" />
+    
+    <file src="fonts/font.ttf" type="client" />
+    
+    <file src="files/background.png" type="client" />
+    <file src="files/bar.png" type="client" />
+    <file src="files/bar-blue.png" type="client" />
+</meta>

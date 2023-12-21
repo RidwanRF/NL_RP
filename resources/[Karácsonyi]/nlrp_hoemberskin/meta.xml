@@ -1,0 +1,7 @@
+<meta>
+    <script src="sourcec.luac" type="client" />
+    
+    <file src="other/a.dff" />
+    <file src="other/a.txd" />
+    
+</meta>

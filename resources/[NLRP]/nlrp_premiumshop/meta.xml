@@ -1,0 +1,12 @@
+﻿<meta>
+    <script src="SourceC.luac" type="client" />
+    <script src="SourceG.luac" type="shared" />
+    <script src="SourceS.lua" type="server" />
+    <oop>true</oop>
+    <export function="addNotifications" type="shared" />
+    
+    <!--<[ Képek ]>-->
+    <file src="files/change.png" />
+    <file src="files/myriadproregular.ttf" />
+    
+</meta>

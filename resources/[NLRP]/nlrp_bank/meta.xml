@@ -1,0 +1,10 @@
+<meta>
+    <script src="sourceC.luac" type="client" />
+    <script src="sourceS.lua" type="server" />
+    <script src="atmS.lua" type="server" />
+    <script src="atmC.luac" type="client" />
+    <export function="deleteATM" type="server" />
+    <export function="createATM" type="server" />
+    <file src="images/logo.png" />
+    <download_priority_group>-36</download_priority_group>
+</meta>
